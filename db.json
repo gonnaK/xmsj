@@ -5,7 +5,7 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "sadasda, "postId": 1 },
+    { "id": 1, "body": "sadasda", "postId": 1 },
     { "id": 2, "body": "swwwwwwwt", "postId": 2 }
   ],
   "profile": {
